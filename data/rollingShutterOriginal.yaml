@@ -6,4 +6,4 @@ val: ./rollingShutter/val/images
 nc: 1
 
 names:
-  0: 'original'
+  0: "original"
